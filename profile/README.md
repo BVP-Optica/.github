@@ -42,13 +42,17 @@ Dr. Puri has been a key mentor in guiding the chapter’s academic vision and st
 ## 👥 Team 2025–26
 
 | Role | Name |
-|------|------|
-| **President** | Akshat Arora |
-| **Vice President** | Anand Ambastha |
-| **Secretary** | Pratham Gupta |
-| **Treasurer** | Lavanya Mathur |
-| **Special Officers** | Gaurav • Simran Kaur |
-| **Heads of Technology** | Samyak Jain • Saksham Malik • Mayank |
+|---|---|
+| President | Anand Ambastha |
+| Co-President | Akshat Arora |
+| Vice President | Samyak Jain |
+| General Secretary | Gaurav |
+| Co-General Secretary | Pratham Gupta |
+| Treasurer | Lavanya |
+| Co-Treasurer | Avni |
+| Special Officer | Simran |
+| Head of Technology (HOT) | Disha |
+| Head of Technology (HOT) | Krishiv Wahi |
 
 ---
 
